@@ -1,1 +1,1 @@
-# sublime-Text3---conf
+# Sublime Text3-conf
